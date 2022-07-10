@@ -64,7 +64,7 @@ console.log(find_app('notepad')) /*prints the Name and AppID of the application 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;This function is used to open/start an installed application. It returns ***Application not found*** if the application is not installed or found.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `appname`      | `string` | **Required**. Name of the application to be opened/started |
+| `appname`      | `string` | **Required**. Name of the application to be searched |
 
 #### Usage:
 ```{.sourceCode .bash}
@@ -82,7 +82,7 @@ console.log(open_app("notepad")) /*prints "Application opened" if success or pri
 
 ## ****Support****
 
-For support, email program14102003@gmail.com.
+For support, you can [buy me a cofee ☕](https://www.buymeacoffee.com/programandlinux)
 
 or
 

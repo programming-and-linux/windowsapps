@@ -90,7 +90,7 @@ You can even pay a fraction of BTC to my BTC address: **bc1qwxpusvdd3w9vglmdwn94
 ## ****Authors****
 
 - [@programming.and.linux](https://github.com/programming-and-linux/)
-- [program14102003@gmail.com](mailto:program14102003@gmail.com)
+- [program.and.linux@gmail.com](mailto:program.and.linux@gmail.com)
 
 
 ## ****🔗 Links****
